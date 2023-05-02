@@ -1,4 +1,4 @@
-## Java Examples for Beginners
+## Java Examples
 This repository contains a collection of Java code examples that are ideal for beginners who are just starting to learn Java programming.
 
 ## Prerequisites
