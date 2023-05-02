@@ -21,15 +21,15 @@ git clone https://github.com/FaceND/Java.git
 
 This is the  order in which to study the examples:
 
-1. `SumScore.java`: A program that calculates the `sum` of two variables `score1` and `score2`.
+1. `SumScore.java`: A program that calculates the sum of two variables score1 and score2.
 2. `VatCalculate.java`: A program that calculates the total cost of a product including value-added tax (VAT).
-3. `IfExample.java`: A program that demonstrates the use of the `if` statement to make `decisions` in Java.
-4. `IfElseExample.java`: A program that demonstrates the use of the `if-else` statement to make `decisions` in Java.
-5. `SwitchCaseExample.java`: A program that demonstrates the use of the `switch-case` statement to make `decisions` in Java.
-6. `DoWhileExample.java`: A program that demonstrates the use of the `do-while loop` in Java.
-7. `ForExample.java`: A program that demonstrates the use of the `for loop` in Java.
+3. `IfExample.java`: A program that demonstrates the use of the if statement to make decisions in Java.
+4. `IfElseExample.java`: A program that demonstrates the use of the if-else statement to make decisions in Java.
+5. `SwitchCaseExample.java`: A program that demonstrates the use of the switch-case statement to make decisions in Java.
+6. `DoWhileExample.java`: A program that demonstrates the use of the do-while loop in Java.
+7. `ForExample.java`: A program that demonstrates the use of the for loop in Java.
 8. `ArrayExample1.java`: A program that demonstrates how to declare and manipulate arrays in Java.
-9. `Products.java`: A simple program that prints `"Hello, World!"` to the console, which is a common first program for many beginning programmers.
+9. `Products.java`: A simple program that prints "Hello, World!" to the console, which is a common first program for many beginning programmers.
 
 Each of these programs is designed to illustrate a specific concept or technique in Java 
 programming. By studying and running these examples, beginners can gain a better 
